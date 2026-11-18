@@ -1,0 +1,271 @@
+{
+  "name": "GTA6-Vice-Degrade",
+  "description": "Vice City : dégradé violet → rose avec grille néon (version mobile)",
+  "authors": [
+    {
+      "name": "Fabrice",
+      "id": "0"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": [
+      "#00000000",
+      "#00000000"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#0c041e1a",
+      "#0c041e1a"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#0c041e33",
+      "#0c041e33"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#0c041e52",
+      "#0c041e52"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#00000000",
+      "#00000000"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#0c041e33",
+      "#0c041e33"
+    ],
+    "CHAT_BACKGROUND": [
+      "#00000000",
+      "#00000000"
+    ],
+    "HOME_BACKGROUND": [
+      "#00000000",
+      "#00000000"
+    ],
+    "BACKGROUND_BASE_LOWEST": [
+      "#0c041e52",
+      "#0c041e52"
+    ],
+    "BACKGROUND_BASE_LOWER": [
+      "#0c041e33",
+      "#0c041e33"
+    ],
+    "BACKGROUND_BASE_LOW": [
+      "#0c041e1a",
+      "#0c041e1a"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#00000000",
+      "#00000000"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#0c041e1a",
+      "#0c041e1a"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#0c041e52",
+      "#0c041e52"
+    ],
+    "BG_BACKDROP": [
+      "#0c041eb3",
+      "#0c041eb3"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#1d0d38",
+      "#1d0d38"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#241044",
+      "#241044"
+    ],
+    "BACKGROUND_SURFACE_HIGH": [
+      "#1d0d38",
+      "#1d0d38"
+    ],
+    "BACKGROUND_SURFACE_HIGHER": [
+      "#241044",
+      "#241044"
+    ],
+    "BACKGROUND_SURFACE_HIGHEST": [
+      "#2b1450",
+      "#2b1450"
+    ],
+    "BG_SURFACE_OVERLAY": [
+      "#1d0d38",
+      "#1d0d38"
+    ],
+    "BG_SURFACE_RAISED": [
+      "#241044",
+      "#241044"
+    ],
+    "MODAL_BACKGROUND": [
+      "#1d0d38",
+      "#1d0d38"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#1d0d38cc",
+      "#1d0d38cc"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#241044cc",
+      "#241044cc"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#0c041e80",
+      "#0c041e80"
+    ],
+    "CHAT_INPUT_CONTAINER_BACKGROUND": [
+      "#0c041e80",
+      "#0c041e80"
+    ],
+    "INPUT_BACKGROUND": [
+      "#0c041e80",
+      "#0c041e80"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#ffffff0f",
+      "#ffffff0f"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#e91e8c24",
+      "#e91e8c24"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#8b2fc938",
+      "#8b2fc938"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#ffffff0a",
+      "#ffffff0a"
+    ],
+    "BG_MOD_FAINT": [
+      "#ffffff0a",
+      "#ffffff0a"
+    ],
+    "BG_MOD_SUBTLE": [
+      "#ffffff0f",
+      "#ffffff0f"
+    ],
+    "BG_MOD_STRONG": [
+      "#8b2fc942",
+      "#8b2fc942"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#e91e8c",
+      "#e91e8c"
+    ],
+    "BORDER_SUBTLE": [
+      "#ffffff14",
+      "#ffffff14"
+    ],
+    "BORDER_FAINT": [
+      "#ffffff0d",
+      "#ffffff0d"
+    ],
+    "TEXT_NORMAL": [
+      "#e8dff5",
+      "#e8dff5"
+    ],
+    "TEXT_DEFAULT": [
+      "#e8dff5",
+      "#e8dff5"
+    ],
+    "TEXT_MUTED": [
+      "#a898c0",
+      "#a898c0"
+    ],
+    "TEXT_LINK": [
+      "#00d4ff",
+      "#00d4ff"
+    ],
+    "TEXT_BRAND": [
+      "#ff2d78",
+      "#ff2d78"
+    ],
+    "TEXT_STRONG": [
+      "#ffffff",
+      "#ffffff"
+    ],
+    "HEADER_PRIMARY": [
+      "#ffffff",
+      "#ffffff"
+    ],
+    "HEADER_SECONDARY": [
+      "#c4b8d8",
+      "#c4b8d8"
+    ],
+    "MOBILE_TEXT_HEADING_PRIMARY": [
+      "#ffffff",
+      "#ffffff"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#c0aedb",
+      "#c0aedb"
+    ],
+    "CHANNEL_ICON": [
+      "#c0aedb",
+      "#c0aedb"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#a898c0",
+      "#a898c0"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#ff2d78",
+      "#ff2d78"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#ffffff",
+      "#ffffff"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#5a4a75",
+      "#5a4a75"
+    ],
+    "MENTION_BACKGROUND": [
+      "#8b2fc940",
+      "#8b2fc940"
+    ],
+    "MENTION_FOREGROUND": [
+      "#d79bff",
+      "#d79bff"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+      "#e91e8c",
+      "#e91e8c"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+      "#c8177a",
+      "#c8177a"
+    ],
+    "BUTTON_BRAND_BACKGROUND": [
+      "#e91e8c",
+      "#e91e8c"
+    ],
+    "CONTROL_BRAND_FOREGROUND": [
+      "#e91e8c",
+      "#e91e8c"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#241044",
+      "#241044"
+    ]
+  },
+  "rawColors": {
+    "BRAND_260": "#ff8fc4",
+    "BRAND_360": "#ff5aa0",
+    "BRAND_400": "#ff3d8e",
+    "BRAND_430": "#f52f86",
+    "BRAND_460": "#ee2689",
+    "BRAND_500": "#e91e8c",
+    "BRAND_530": "#d81a83",
+    "BRAND_560": "#c8177a",
+    "BRAND_600": "#a8136a",
+    "BRAND_660": "#8e1059",
+    "BRAND_700": "#740d49"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/Fab6865/discord-themes/main/gta6-fond.png",
+    "blur": 0,
+    "alpha": 1
+  }
+}
