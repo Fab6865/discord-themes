@@ -268,16 +268,16 @@
       "#ff2d78"
     ],
     "TEXT_STRONG": [
-      "#ffffff",
-      "#ffffff",
-      "#ffffff",
-      "#ffffff"
+      "#ff6fb5",
+      "#ff6fb5",
+      "#ff6fb5",
+      "#ff6fb5"
     ],
     "HEADER_PRIMARY": [
-      "#ffffff",
-      "#ffffff",
-      "#ffffff",
-      "#ffffff"
+      "#ff6fb5",
+      "#ff6fb5",
+      "#ff6fb5",
+      "#ff6fb5"
     ],
     "HEADER_SECONDARY": [
       "#ff4fa0",
@@ -428,6 +428,66 @@
       "#e8dff5",
       "#e8dff5",
       "#e8dff5"
+    ],
+    "USERNAME": [
+      "#ff6fb5",
+      "#ff6fb5",
+      "#ff6fb5",
+      "#ff6fb5"
+    ],
+    "CHAT_USERNAME_DEFAULT": [
+      "#ff6fb5",
+      "#ff6fb5",
+      "#ff6fb5",
+      "#ff6fb5"
+    ],
+    "EMBED_BACKGROUND": [
+      "#2a1450cc",
+      "#2a1450cc",
+      "#2a1450cc",
+      "#2a1450cc"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#2a1450e6",
+      "#2a1450e6",
+      "#2a1450e6",
+      "#2a1450e6"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#41207a",
+      "#41207a",
+      "#41207a",
+      "#41207a"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#341a62",
+      "#341a62",
+      "#341a62",
+      "#341a62"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#e91e8c1f",
+      "#e91e8c1f",
+      "#e91e8c1f",
+      "#e91e8c1f"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#e91e8c2e",
+      "#e91e8c2e",
+      "#e91e8c2e",
+      "#e91e8c2e"
+    ],
+    "CARD_PRIMARY_PRESSED_BG": [
+      "#341a62",
+      "#341a62",
+      "#341a62",
+      "#341a62"
+    ],
+    "ANDROID_RIPPLE": [
+      "#ff6fb540",
+      "#ff6fb540",
+      "#ff6fb540",
+      "#ff6fb540"
     ]
   },
   "rawColors": {
@@ -476,7 +536,31 @@
     "RED_460": "#d81a83",
     "RED_500": "#e91e8c",
     "RED_530": "#c8177a",
-    "RED_560": "#b0146c"
+    "RED_560": "#b0146c",
+    "PLUM_3": "#f4ecff",
+    "PLUM_4": "#ff6fb5",
+    "PLUM_6": "#e8dff5",
+    "PLUM_9": "#d6c4f2",
+    "PLUM_10": "#b9a6d6",
+    "PLUM_11": "#c4b4e0",
+    "PLUM_13": "#c4b4e0",
+    "PLUM_14": "#6b4f96",
+    "PLUM_15": "#53307f",
+    "PLUM_16": "#4a2b76",
+    "PLUM_17": "#2c1650",
+    "PLUM_18": "#46286f",
+    "PLUM_19": "#422667",
+    "PLUM_20": "#3b1f60",
+    "PLUM_21": "#361c59",
+    "PLUM_22": "#2c1650",
+    "PLUM_23": "#26134a",
+    "PLUM_24": "#211042",
+    "PLUM_25": "#1c0e3a",
+    "PLUM_26": "#180c33",
+    "CHAT_MENTIONS_BACKGROUND_DARK": "#8b2fc94d",
+    "CHAT_MENTIONS_FOREGROUND_DARK": "#d79bff",
+    "GUILD_BOOSTING_PINK": "#ff6fb5",
+    "GUILD_BOOSTING_PURPLE": "#b44dff"
   },
   "background": {
     "url": "https://raw.githubusercontent.com/Fab6865/discord-themes/main/gta6-fond.png",
