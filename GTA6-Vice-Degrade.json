@@ -10,10 +10,10 @@
   "spec": 2,
   "semanticColors": {
     "BACKGROUND_PRIMARY": [
-      "#3b1a6bb3",
-      "#3b1a6bb3",
-      "#3b1a6bb3",
-      "#3b1a6bb3"
+      "#3b1a6b40",
+      "#3b1a6b40",
+      "#3b1a6b40",
+      "#3b1a6b40"
     ],
     "BACKGROUND_SECONDARY": [
       "#41207ae0",
@@ -34,10 +34,10 @@
       "#2a1450f0"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#3b1a6bb3",
-      "#3b1a6bb3",
-      "#3b1a6bb3",
-      "#3b1a6bb3"
+      "#3b1a6b40",
+      "#3b1a6b40",
+      "#3b1a6b40",
+      "#3b1a6b40"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
       "#341a62e6",
@@ -46,16 +46,16 @@
       "#341a62e6"
     ],
     "CHAT_BACKGROUND": [
-      "#3b1a6bb3",
-      "#3b1a6bb3",
-      "#3b1a6bb3",
-      "#3b1a6bb3"
+      "#3b1a6b40",
+      "#3b1a6b40",
+      "#3b1a6b40",
+      "#3b1a6b40"
     ],
     "HOME_BACKGROUND": [
-      "#3b1a6bb3",
-      "#3b1a6bb3",
-      "#3b1a6bb3",
-      "#3b1a6bb3"
+      "#3b1a6b40",
+      "#3b1a6b40",
+      "#3b1a6b40",
+      "#3b1a6b40"
     ],
     "BACKGROUND_BASE_LOWEST": [
       "#2a1450f0",
@@ -76,10 +76,10 @@
       "#41207ae0"
     ],
     "BG_BASE_PRIMARY": [
-      "#3b1a6bb3",
-      "#3b1a6bb3",
-      "#3b1a6bb3",
-      "#3b1a6bb3"
+      "#3b1a6b40",
+      "#3b1a6b40",
+      "#3b1a6b40",
+      "#3b1a6b40"
     ],
     "BG_BASE_SECONDARY": [
       "#41207ae0",
@@ -268,16 +268,16 @@
       "#ff2d78"
     ],
     "TEXT_STRONG": [
-      "#ff6fb5",
-      "#ff6fb5",
-      "#ff6fb5",
-      "#ff6fb5"
+      "#ffffff",
+      "#ffffff",
+      "#ffffff",
+      "#ffffff"
     ],
     "HEADER_PRIMARY": [
-      "#ff6fb5",
-      "#ff6fb5",
-      "#ff6fb5",
-      "#ff6fb5"
+      "#ffffff",
+      "#ffffff",
+      "#ffffff",
+      "#ffffff"
     ],
     "HEADER_SECONDARY": [
       "#ff4fa0",
@@ -286,10 +286,10 @@
       "#ff4fa0"
     ],
     "MOBILE_TEXT_HEADING_PRIMARY": [
-      "#ffffff",
-      "#ffffff",
-      "#ffffff",
-      "#ffffff"
+      "#ff6fb5",
+      "#ff6fb5",
+      "#ff6fb5",
+      "#ff6fb5"
     ],
     "CHANNELS_DEFAULT": [
       "#e8dff5",
@@ -565,6 +565,6 @@
   "background": {
     "url": "https://raw.githubusercontent.com/Fab6865/discord-themes/main/gta6-fond.png",
     "blur": 0,
-    "alpha": 0.55
+    "alpha": 1
   }
 }
