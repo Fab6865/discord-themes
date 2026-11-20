@@ -238,22 +238,22 @@
       "#ffffff0d"
     ],
     "TEXT_NORMAL": [
-      "#e8dff5",
-      "#e8dff5",
-      "#e8dff5",
-      "#e8dff5"
+      "#7fe9ff",
+      "#7fe9ff",
+      "#7fe9ff",
+      "#7fe9ff"
     ],
     "TEXT_DEFAULT": [
-      "#e8dff5",
-      "#e8dff5",
-      "#e8dff5",
-      "#e8dff5"
+      "#7fe9ff",
+      "#7fe9ff",
+      "#7fe9ff",
+      "#7fe9ff"
     ],
     "TEXT_MUTED": [
-      "#a898c0",
-      "#a898c0",
-      "#a898c0",
-      "#a898c0"
+      "#9fc8de",
+      "#9fc8de",
+      "#9fc8de",
+      "#9fc8de"
     ],
     "TEXT_LINK": [
       "#00d4ff",
@@ -488,6 +488,12 @@
       "#ff6fb540",
       "#ff6fb540",
       "#ff6fb540"
+    ],
+    "TEXT_PRIMARY": [
+      "#7fe9ff",
+      "#7fe9ff",
+      "#7fe9ff",
+      "#7fe9ff"
     ]
   },
   "rawColors": {
@@ -539,7 +545,7 @@
     "RED_560": "#b0146c",
     "PLUM_3": "#f4ecff",
     "PLUM_4": "#ff6fb5",
-    "PLUM_6": "#e8dff5",
+    "PLUM_6": "#7fe9ff",
     "PLUM_9": "#d6c4f2",
     "PLUM_10": "#b9a6d6",
     "PLUM_11": "#c4b4e0",
